@@ -5,6 +5,7 @@
 ./pareto-api/target/
 ./pareto-api/out/
 ./pareto-api/.idea
+./pareto-api/.idea/
 ./pareto-api/*.iml
 ./pareto-api/*.ipr
 ./pareto-api/*.iws

@@ -1,5 +1,0 @@
-profile: service
-defaultPackage: pareto.api
----
-testFramework: junit
-sourceLanguage: java
